@@ -1,0 +1,8 @@
+contentBox.childNodes[0].innerText = "food 1"
+    contentBox.childNodes[1].innerText = "food 2"
+    contentBox.childNodes[2].innerText = "food 3"
+    contentBox.childNodes[3].innerText = "food 4"
+    contentBox.childNodes[4].innerText = "food 5"
+    contentBox.childNodes[5].innerText = "food 6"
+    contentBox.childNodes[6].innerText = "food 7"
+    contentBox.childNodes[7].innerText = "food 8"
